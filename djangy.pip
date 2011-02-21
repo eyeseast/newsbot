@@ -1,0 +1,8 @@
+django
+docutils
+
+lxml
+feedparser
+
+south
+fabric
