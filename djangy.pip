@@ -1,4 +1,5 @@
 django
+django-model-utils
 docutils
 
 lxml
@@ -6,3 +7,5 @@ feedparser
 
 south
 fabric
+
+-e git+git://github.com/eyeseast/python-calais.git#egg=python-calais
